@@ -10,7 +10,7 @@ def home():
         <head>
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <title>Currículo de [Seu Nome]</title>
+            <title>Currículo</title>
             <link rel="stylesheet" href="styles.css">
             <style>
                 body {
@@ -34,7 +34,7 @@ def home():
                 }
 
                 h1 {
-                    border-bottom: 2px solid #4CAF50;
+                    border-bottom: 2px solid #4c58af;
                     padding-bottom: 10px;
                 }
 
@@ -63,7 +63,7 @@ def home():
         <body>
 
         <div class="container">
-            <h1>[Seu Nome]</h1>
+            <h1>Matsu Shimote</h1>
             <div class="contact-info">
                 <p>Email: seuemail@exemplo.com</p>
                 <p>Telefone: (99) 99999-9999</p>
@@ -85,7 +85,7 @@ def home():
 
             <h2>Educação</h2>
             <ul>
-                <li><strong>Curso - Instituição</strong> (MM/AAAA - MM/AAAA)
+                <li><strong>Ciencia da Computação - FIB</strong> (MM/AAAA - MM/AAAA)
                     <p>Descrição ou conquistas relevantes.</p>
                 </li>
                 <li><strong>Curso - Instituição</strong> (MM/AAAA - MM/AAAA)
@@ -103,7 +103,7 @@ def home():
 
             <h2>Idiomas</h2>
             <ul>
-                <li>Idioma 1 - Nível</li>
+                <li>Inglês - Intermediário</li>
                 <li>Idioma 2 - Nível</li>
             </ul>
         </div>
