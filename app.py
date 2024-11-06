@@ -71,8 +71,7 @@ def home():
             </div>
 
             <h2>Resumo Profissional</h2>
-            <p>Experiência de 3 anos em programação com conhecimentos de C#, C++ e Python. Graduada em TI na Faculdades Unidas. Meu TCC recebeu nota máxima da banca examinadora. Faço trabalho voluntário como desenvolvedora de games para a Associação das Crianças Felizes. Também tenho conhecimento em SQL, Unix Shell Scripts, Node JS e Java Script. Tenho inglês intermediário e curso espanhol duas vezes por semana para terminar o nível básico (A2) até o final do ano. </p>
-
+            <p>Graduado em relações internacionais, fluente em inglês, espanhol e francês. Possuo 5 anos de experiência, amplo conhecimento em vendas e negociações internacionais. Agora, desejo reforçar o departamento de relações internacionais da empresa X e alcançar novas conquistas. </p>
             <h2>Experiência Profissional</h2>
             <ul>
                 <li><strong>Cargo - Empresa</strong> (MM/AAAA - Presente)
